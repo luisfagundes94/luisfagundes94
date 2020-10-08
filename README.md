@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer student mainly focused on developing android applications with Kotlin using the latest technologies on the market following design patterns such as MVP and MVVM with a clean and testable architecture. 
+I'm a Software Engineer student focused on developing android applications with Kotlin using the latest technologies on the market following design patterns such as MVP and MVVM with a clean and testable architecture. 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
