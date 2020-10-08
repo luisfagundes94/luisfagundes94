@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**luisfagundes94/luisfagundes94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer student mainly focused on developing android applications with Kotlin using the latest technologies on the market following design patterns such as MVP and MVVM with a clean and testable architecture. 
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; I’m currently learning Web Development with ReactJS, Typescript and NodeJS
+- 🎓 &nbsp; Studying Software Engineering and Ethical Hacking.
+- 💼 &nbsp; Android developer.
+- 🌱 &nbsp; Enthusiast in Ethical Hacking, PC/Hardware and Artificial Intelligence.
+- ✍️ &nbsp; Love Horror movies, games, anime and pc building.
+
+Published apps:
+- Spooki https://play.google.com/store/apps/details?id=com.luisfelipe.spooki&hl=pt_BR
+- Bluesky https://play.google.com/store/apps/details?id=com.luisfelipe.bluesky&hl=pt_BR
