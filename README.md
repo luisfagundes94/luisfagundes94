@@ -4,7 +4,7 @@ I'm a Software Engineer student focused on developing android applications with 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web Development with ReactJS, Typescript and NodeJS
+- 🔭 &nbsp; I’m currently learning Web Development with VueJS and Typescript
 - 🎓 &nbsp; Studying Software Engineering and Ethical Hacking.
 - 💼 &nbsp; Android developer.
 - 🌱 &nbsp; Enthusiast in Ethical Hacking, PC/Hardware and Artificial Intelligence.
