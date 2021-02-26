@@ -5,7 +5,7 @@ I'm a Software Engineer student focused on developing android applications with 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Ethical Hacking
-- 🎓 &nbsp; Studying Software Engineering and Ethical Hacking.
+- 🎓 &nbsp; Studying Software Engineering.
 - 💼 &nbsp; Android developer.
 - 🌱 &nbsp; Enthusiast in Ethical Hacking, PC/Hardware and Artificial Intelligence.
 - ✍️ &nbsp; Love Horror movies, games, anime and pc building.
