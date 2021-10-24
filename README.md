@@ -13,3 +13,9 @@ I'm a Software Engineer student focused on developing android applications with 
 Published apps:
 - Spooki https://play.google.com/store/apps/details?id=com.luisfelipe.spooki&hl=pt_BR
 - Bluesky https://play.google.com/store/apps/details?id=com.luisfelipe.bluesky&hl=pt_BR
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfagundes94&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfagundes94&layout=compact&hide=tex,html&theme=dracula)](https://github.com/luisfagundes94/github-readme-stats)
+
+
