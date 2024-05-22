@@ -10,9 +10,8 @@ I'm a Software Engineer focused on developing android applications with Kotlin u
 - 🌱 &nbsp; Enthusiast in Ethical Hacking, PC/Hardware and Artificial Intelligence.
 - ✍️ &nbsp; Love Horror movies, games, anime and pc building.
 
-Published apps:
+Published app:
 - Spooki https://play.google.com/store/apps/details?id=com.luisfelipe.spooki&hl=pt_BR
-- Bluesky https://play.google.com/store/apps/details?id=com.luisfelipe.bluesky&hl=pt_BR
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfagundes94&layout=compact&hide=tex,html&theme=dracula)](https://github.com/luisfagundes94/github-readme-stats)
 
