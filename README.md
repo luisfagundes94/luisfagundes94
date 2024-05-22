@@ -13,7 +13,9 @@ I'm a Software Engineer focused on developing android applications with Kotlin u
 Published app:
 - Spooki https://play.google.com/store/apps/details?id=com.luisfelipe.spooki&hl=pt_BR
 
-[Leetcode Profile](https://leetcode.com/u/luisfelipecf94/)
+Links:
+- [Leetcode](https://leetcode.com/u/luisfelipecf94/)
+- [LinkedIn](https://www.linkedin.com/in/luisfelipecf94/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfagundes94&layout=compact&hide=tex,html&theme=dracula)](https://github.com/luisfagundes94/github-readme-stats)
 
