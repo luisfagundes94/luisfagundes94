@@ -5,10 +5,10 @@ I'm a Software Engineer focused on developing android applications with Kotlin u
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Artificial Intelligence
-- 🎓 &nbsp; Studying Software Engineering.
-- 💼 &nbsp; Android developer.
-- 🌱 &nbsp; Enthusiast in Ethical Hacking, PC/Hardware and Artificial Intelligence.
-- ✍️ &nbsp; Love Horror movies, games, anime and pc building.
+- 🎓 &nbsp; Studying Software Engineering
+- 💼 &nbsp; Android developer
+- 🌱 &nbsp; Enthusiast in Ethical Hacking, PC/Hardware and Artificial Intelligence
+- ✍️ &nbsp; Love Horror movies, games, anime and pc building
 
 Links:
 - [Leetcode](https://leetcode.com/u/luisfelipecf94/)
